@@ -100,18 +100,21 @@ I plan to revisit and enhance some of these projects by:
 
 ## ⚙️ How to Run
 Each project is standalone. To run any script:
+Make sure you have Python 3 installed.
 
 ```bash
 python filename.py
 ```
 
-Make sure you have Python 3 installed.
 ---
 
 ## 📚 Purpose
+
 This repository is part of my learning journey in Python development.
 It represents my early experiments and growth in programming fundamentals.
 
-⭐ Feedback
+## ⭐ Feedback
+
 If you have suggestions or improvements, feel free to share them. Always open to learning and improving.
+
 ---
